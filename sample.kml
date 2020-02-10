@@ -156,7 +156,7 @@
       </Placemark>
       
       <Placemark>
-        <name>rumah 1</name>
+        <name>rumah xxx</name>
         <description><![CDATA[<img src="https://doc-08-ag-mymaps.googleusercontent.com/untrusted/hostedimage/udriok6rgq8m505t5fg979svc8/pat7eha7ndb9jsga9cg0372be4/1581314400000/BFUmeaiTpFypTXJ-tdk89AuuLlRHDPCm/08442217380616410590/1AF2TALptIBAuRCLwqusSUBgyguhAaWXUDVlc9UzhjTgco1qJy58xIADFUGpotT-waFgMIW8w4rj8uyLl84ARRtnpU--3Tdx7jw7Ew4IHujSIprV2PWp6Cb_L7c236oJDgfTiBtbvrWPQpWbZnCJmfFDQA-KEX8l_qjuBMGOflX2jo7DG37OoCfMhC-LTeijaLKB01L9DrDt7BSnEsV4zRT9cue5Lr5402TK0k3Ju8ZW8uFHjF0mja75BuwGhCGuoHcMUXOB-xE0_veU7v6wK5WdQP6IzmQtSxw?session=0&fife" height="200" width="auto" /><br><br>demo rumah 1]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
           <Data name="id_pelanggan">
@@ -423,5 +423,3 @@
     </Folder>
   </Document>
 </kml>
-
-
