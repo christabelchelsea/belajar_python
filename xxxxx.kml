@@ -138,42 +138,9 @@
       </Pair>
     </StyleMap>
     <Folder>
-      <name>Lapisan tanpa judul</name> 
-       <!-- Declare the type "TrailHeadType" with 3 fields -->
-  <Schema name="TrailHeadType" id="TrailHeadTypeId">     
-    <SimpleField type="string" name="TrailHeadName">       
-      <displayName><![CDATA[<b>Trail Head Name</b>]]></displayName>     
-    </SimpleField>     
-    <SimpleField type="double" name="TrailLength">       
-      <displayName><![CDATA[<i>Length in miles</i>]]></displayName>     
-    </SimpleField>     
-    <SimpleField type="int" name="ElevationGain">       
-      <displayName><![CDATA[<i>Change in altitude</i>]]></displayName>     
-    </SimpleField>   
-  </Schema> 
-
-<!-- This is analogous to adding three fields to a new element of type TrailHead:
-
-  <TrailHeadType>        
-    <TrailHeadName>...</TrailHeadName>        
-    <TrailLength>...</TrailLength>        
-    <ElevationGain>...</ElevationGain>    
- </TrailHeadType>
--->        <Placemark>     
-    <name>Easy trail</name>
-    <ExtendedData>       
-      <SchemaData schemaUrl="#TrailHeadTypeId">         
-        <SimpleData name="TrailHeadName">Pi in the sky</SimpleData>         
-        <SimpleData name="TrailLength">3.14159</SimpleData>         
-        <SimpleData name="ElevationGain">10</SimpleData>       
-      </SchemaData>     
-    </ExtendedData>     
-    <Point>       
-      <coordinates>103.89877,1.09122</coordinates>     
-    </Point>   
-  </Placemark>   
+      <name>Lapisan tanpa judul</name>  
   <Placemark>
-    <name>By the lake</name>
+    <name>123123;Jemmy Carlos;Depok, Kelapa Dua 234345;100 vH;Tokens;77.90 kWH;Rp.69.000;122:09:10 kWH;Rp.135.044;rumah</name>
     <ExtendedData>
       <Data name="holeNumber">
         <value>5</value>
@@ -193,14 +160,14 @@
 
 
       <Placemark>
-        <name>rumah xxx</name>
+    <name>123123;Jhon F;Lenteng Agung, Kantor Pos 1234;220 vH;Tokens;111.90 kWH;Rp.169.000;312:19:10 kWH;Rp.205.044;rumah</name>
         <description><![CDATA[<img src="https://doc-08-ag-mymaps.googleusercontent.com/untrusted/hostedimage/udriok6rgq8m505t5fg979svc8/pat7eha7ndb9jsga9cg0372be4/1581314400000/BFUmeaiTpFypTXJ-tdk89AuuLlRHDPCm/08442217380616410590/1AF2TALptIBAuRCLwqusSUBgyguhAaWXUDVlc9UzhjTgco1qJy58xIADFUGpotT-waFgMIW8w4rj8uyLl84ARRtnpU--3Tdx7jw7Ew4IHujSIprV2PWp6Cb_L7c236oJDgfTiBtbvrWPQpWbZnCJmfFDQA-KEX8l_qjuBMGOflX2jo7DG37OoCfMhC-LTeijaLKB01L9DrDt7BSnEsV4zRT9cue5Lr5402TK0k3Ju8ZW8uFHjF0mja75BuwGhCGuoHcMUXOB-xE0_veU7v6wK5WdQP6IzmQtSxw?session=0&fife" height="200" width="auto" /><br><br>demo rumah 1]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
           <Data name="id_pelanggan">
             <value>123234234</value>
           </Data>
           <Data name="nama">
-            <value>Jemmy</value>
+            <value>Jhon</value>
           </Data>
           <Data name="alamat">
             <value>depok</value>
